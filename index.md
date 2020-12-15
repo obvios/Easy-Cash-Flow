@@ -13,9 +13,9 @@ App Data:
 
 The data you enter into the app is stored on your device. If you create an account, your data will also be backed up in our database so that you can access it across devices.
 
-**Deactivating your information**
+**Managing your data**
 
-You can always delete the information you entered in your app, by uninstalling the app. If you created an account, you may deactivate your account from within the app.
+You can always delete the information you entered in the app, by uninstalling the app. If you created an account, you may deactivate your account from within the app.
 
 
 **Changes to This Privacy Policy**
