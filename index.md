@@ -7,11 +7,11 @@ By using the app "Easy Cash Flow" you are consenting to our policies regarding t
 Account Information:
 
 	
-If you create a Easy Cash Flow account, we may require you to provide a username and password. Your username doesn’t have to be related to your real name.
+If you create an "Easy Cash Flow" account, we may require you to provide a username and password. Your username doesn’t have to be related to your real name.
 
 App Data:
 
-The data you enter into the app is stored on your device. If you create an account, it will also be backed up on our servers so you can access your data across devices.
+The data you enter into the app is stored on your device. If you create an account, your data will also be backed up in our database so that you can access it across devices.
 
 
 **Service Providers**
