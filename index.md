@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-By using the app "Easy Cash Flow" you are consenting to our policies regarding the collection, use and disclosure of personal information set out in this privacy policy.
+By using the app "Easy Cash Flow" you are consenting to our policies regarding the collection, use and disclosure of personal information set out in this privacy policy. This SERVICE is provided at no cost and is intended for use as is.
 
 **Information Collection and Use**
 
