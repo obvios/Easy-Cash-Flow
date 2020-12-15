@@ -20,10 +20,10 @@ You can always delete the information you entered in the app, by uninstalling th
 
 **Changes to This Privacy Policy**
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 This policy is effective as of 2020-12-14
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at epalmaa714@gmail.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact the developer at epalmaa714@gmail.com.
